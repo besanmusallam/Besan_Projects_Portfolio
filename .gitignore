@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.csv
+C:\Users\Lenovo\Desktop\important code\portfolio\Besan_Projects_Portfolio\electric_power_timeseries\data\household_power_consumption_cleaned.csv
+C:\Users\Lenovo\Desktop\important code\portfolio\Besan_Projects_Portfolio\electric_power_timeseries\data\household_power_consumption.csv
+C:\Users\Lenovo\Desktop\important code\portfolio\Besan_Projects_Portfolio\Titanic_Survival_Prediction\data\gender_submission.csv
+C:\Users\Lenovo\Desktop\important code\portfolio\Besan_Projects_Portfolio\Titanic_Survival_Prediction\data\test.csv
+C:\Users\Lenovo\Desktop\important code\portfolio\Besan_Projects_Portfolio\Titanic_Survival_Prediction\data\train.csv
+
 # C extensions
 *.so
 
